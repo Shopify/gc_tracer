@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # GC::Tracer
 
 Trace Garbage Collector activities and output statistics information.
